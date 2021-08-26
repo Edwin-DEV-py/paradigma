@@ -1,7 +1,7 @@
 /*!
 * DevExtreme (dx.messages.it.js)
-* Version: 20.2.7
-* Build date: Thu Apr 22 2021
+* Version: 20.2.5
+* Build date: Fri Jan 15 2021
 *
 * Copyright (c) 2012 - 2021 Developer Express Inc. ALL RIGHTS RESERVED
 * Read about DevExtreme licensing here: https://js.devexpress.com/Licensing/

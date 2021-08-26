@@ -1,7 +1,7 @@
 /*!
 * DevExtreme (dx.messages.de.js)
-* Version: 20.2.7
-* Build date: Thu Apr 22 2021
+* Version: 20.2.5
+* Build date: Fri Jan 15 2021
 *
 * Copyright (c) 2012 - 2021 Developer Express Inc. ALL RIGHTS RESERVED
 * Read about DevExtreme licensing here: https://js.devexpress.com/Licensing/
@@ -157,8 +157,6 @@
             "dxDataGrid-headerFilterEmptyValue": "(Leerwerte)",
             "dxDataGrid-headerFilterOK": "OK",
             "dxDataGrid-headerFilterCancel": "Abbrechen",
-            "dxDataGrid-ariaAdaptiveCollapse": "Zus\xe4tzliche Spalten verstecken",
-            "dxDataGrid-ariaAdaptiveExpand": "Zus\xe4tzliche Spalten anzeigen",
             "dxDataGrid-ariaColumn": "Spalte",
             "dxDataGrid-ariaValue": "Wert",
             "dxDataGrid-ariaFilterCell": "Filterzelle",
@@ -168,14 +166,11 @@
             "dxDataGrid-ariaSearchInGrid": "Suchen in der Datentabelle",
             "dxDataGrid-ariaSelectAll": "Alle ausw\xe4hlen",
             "dxDataGrid-ariaSelectRow": "Zeile ausw\xe4hlen",
-            "dxDataGrid-ariaToolbar": "Symbolleiste der Datentabelle",
             "dxDataGrid-filterBuilderPopupTitle": "Filter-Generator",
             "dxDataGrid-filterPanelCreateFilter": "Filter erzeugen",
             "dxDataGrid-filterPanelClearFilter": "Zur\xfccksetzen",
             "dxDataGrid-filterPanelFilterEnabledHint": "Filter aktivieren",
             "dxTreeList-ariaTreeList": "Strukturliste",
-            "dxTreeList-ariaSearchInGrid": "Suchen in der Strukturliste",
-            "dxTreeList-ariaToolbar": "Symbolleiste der Strukturliste",
             "dxTreeList-editingAddRowToNode": "Hinzuf\xfcgen",
             "dxPager-infoText": "Seite {0} von {1} ({2} Elemente)",
             "dxPager-pagesCountText": "von",

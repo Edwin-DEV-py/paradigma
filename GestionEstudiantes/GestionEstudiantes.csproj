@@ -16,7 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\EstudiantesCore\EstudiantesCore.csproj" />
     <ProjectReference Include="..\EstudiantesInfraestruture\EstudiantesInfraestruture.csproj" />
-    <PackageReference Include="DevExtreme.AspNet.Core" Version="20.2.7" />
+    <PackageReference Include="DevExtreme.AspNet.Core" Version="20.2.5" />
     <PackageReference Include="DevExtreme.AspNet.Data" Version="2.7.1" />
   </ItemGroup>
   <ItemGroup>
@@ -30,9 +30,4 @@
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
   </ItemGroup>
-  <ProjectExtensions>
-    <VisualStudio>
-      <UserProperties DismissedDevExtremeVersion="20.2.7" />
-    </VisualStudio>
-  </ProjectExtensions>
 </Project>
